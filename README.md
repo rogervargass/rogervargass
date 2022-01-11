@@ -17,4 +17,6 @@
   <img align="center" alt="Roger-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Roger-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
+  
+![Snake animation](https://github.com/rogervargass/rogervargass/blob/output/github-contribution-grid-snake.svg)
 
