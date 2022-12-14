@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Roger Vargas 👋
 
-- 🔭 Hoje trabalho com front-end (Angular) e back-end (.NET 6)
+- 🔭 Hoje trabalho com front-end usando React e React Native
 - 🌱 Estou estudando React Native
 
 <div>
