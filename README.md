@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Roger Vargas 👋
 
 - 🔭 Hoje trabalho com front-end usando React e React Native
-- 🌱 Estou estudando React Native
+- 🌱 Estou estudando React Native e Node.js
 
 <div>
   <a href="https://github.com/rogervargass/rogervargass">
