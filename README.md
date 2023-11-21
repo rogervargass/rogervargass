@@ -1,12 +1,15 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+
+<br/>
 ### Olá! Eu sou o Roger Vargas 👋
 
 - 🔭 Hoje trabalho com front-end usando React e React Native
 - 🌱 Estou estudando React Native e Node.js
 
 <div>
-  <a href="https://github.com/rogervargass/rogervargass">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogervargass&show_icons=true&theme=aura_dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogervargass&layout=compact&langs_count=16&theme=aura_dark">
+  <a href="https://github.com/rogervagass">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogervargass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogervargass&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
