@@ -50,7 +50,7 @@
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
-<a href="https://www.linkedin.com/in/roger-vargas-dev" title="LinkedIn" target="_blank">
+<a href="https://www.linkedin.com/in/rogervargass" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a href="https://www.instagram.com/rogervargass/" title="Instagram" target="_blank">
