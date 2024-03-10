@@ -1,34 +1,20 @@
 ## Olá! Eu sou o <strong>Roger Vargas</strong> 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">  
-  - 🔭 Hoje trabalho com front-end usando React e React Native
-</p>
-<p align="left">  
-  - 🌱 Estou estudando React Native e Node.js
+
+<p align="justify">  
+ 👋 Olá! Sou Roger Vargas, um desenvolvedor frontend apaixonado com uma sólida experiência de 2 anos na área. Sou de São Leopoldo, Rio Grande do Sul 🌟. Atualmente, faço parte da incrível equipe da DBC Company, onde estou sempre buscando aprimorar minhas habilidades e contribuir para projetos inovadores.
+
+💻 Minha paixão reside na criação de experiências incríveis para os usuários, e meu conjunto de habilidades reflete isso. Sou especializado em React e React Native, garantindo interfaces fluidas e responsivas em todos os dispositivos. Além disso, estou constantemente aprimorando meus conhecimentos em Next.js para proporcionar ainda mais eficiência e desempenho aos projetos.
+
+⚙️ Além das tecnologias mencionadas, também sou proficientes em Angular, Node.js e Java, garantindo uma visão abrangente do desenvolvimento web e mobile. Estou sempre aberto a aprender novas tecnologias e enfrentar desafios empolgantes.
+
+📚 Atualmente, estou imerso no estudo do Next.js 14 e React Native, buscando acompanhar as últimas tendências e melhores práticas do mercado.
+
+🌱 Estou disponível para colaborações, mentorias e projetos desafiadores. Vamos criar algo incrível juntos!
 </p>
 
 <br>
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=rogervargass&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogervargass&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-</table>
 
 <h2 align="left">
  🦄 Tecnologias:
